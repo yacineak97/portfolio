@@ -1,26 +1,26 @@
-# Portfolio Developer
+# Developer Portfolio
 
-Portfolio personnel développé avec React, TypeScript et Vite.
+Personal portfolio developed with React, TypeScript, and Vite.
 
-Ce projet présente mon profil, mes compétences, mes projets et un moyen de contact direct via formulaire.
+This project showcases my profile, skills, projects, and provides a direct contact form.
 
-## Aperçu
+## Preview
 
 ![Portfolio Preview](./src/assets/portfolio.png)
 
-Le portfolio a été conçu avec une interface moderne, responsive et animée afin d’offrir une expérience utilisateur fluide sur desktop et mobile.
+The portfolio was designed with a modern, responsive, and animated interface to provide a smooth user experience on both desktop and mobile devices.
 
-## Fonctionnalités
+## Features
 
-- Présentation personnelle
-- Section projets
-- Téléchargement du CV
-- Interface responsive
-- Animations et transitions
-- Formulaire de contact
-- Design moderne et minimaliste
+- Personal presentation
+- Projects section
+- CV/Resume download
+- Responsive interface
+- Animations and transitions
+- Contact form
+- Modern and minimalist design
 
-## Technologies utilisées
+## Technologies Used
 
 - React
 - TypeScript
@@ -30,41 +30,41 @@ Le portfolio a été conçu avec une interface moderne, responsive et animée af
 
 ## Installation
 
-Cloner le projet :
+Clone the project:
 
 ```bash
 git clone git@github.com:yacineak97/portfolio.git
 ```
 
-Accéder au dossier :
+Go to the project folder:
 
 ```bash
 cd portfolio
 ```
 
-Installer les dépendances :
+Install dependencies:
 
 ```bash
 npm install
 ```
 
-Lancer le serveur de développement :
+Start the development server:
 
 ```bash
 npm run dev
 ```
 
-## Build production
+## Production Build
 
 ```bash
 npm run build
 ```
 
-## Déploiement
+## Deployment
 
-Le projet peut être déployé facilement avec GitHub Pages, Vercel ou Netlify.
+The project can easily be deployed using GitHub Pages, Vercel, or Netlify.
 
-## Structure du projet
+## Project Structure
 
 ```bash
 src/
@@ -74,10 +74,10 @@ src/
  └── main.tsx
 ```
 
-## Objectif du projet
+## Project Goal
 
-Ce portfolio a été réalisé afin de mettre en avant mes compétences en développement front-end et ma capacité à créer des interfaces modernes et responsives.
+This portfolio was created to showcase my front-end development skills and my ability to build modern and responsive user interfaces.
 
-## Auteur
+## Author
 
 Yacine Akli
